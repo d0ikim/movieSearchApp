@@ -49,8 +49,7 @@ movieSearchApp/
 
 1. 이 저장소를 클론하세요:
   ```
-  bash
-     git clone https://github.com/d0ikim/movieSearchApp.git
+git clone https://github.com/d0ikim/movieSearchApp.git
 ```
 2. 폴더로 이동:
    ```cd movieSearchApp```
