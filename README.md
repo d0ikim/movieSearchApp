@@ -48,8 +48,10 @@ movieSearchApp/
 ## ✅ 사용 방법
 
 1. 이 저장소를 클론하세요:
-  ` ```bash
-     git clone https://github.com/d0ikim/movieSearchApp.git```
+  ```
+  bash
+     git clone https://github.com/d0ikim/movieSearchApp.git
+```
 2. 폴더로 이동:
    ```cd movieSearchApp```
 3. ```index.html``` 파일을 브라우저로 열면 바로 실행됩니다. 서버 없이 로컬에서 실행되는 정적 웹 페이지입니다.
