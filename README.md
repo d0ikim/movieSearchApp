@@ -23,7 +23,7 @@
 - 💬 **원어 표기 지원**: 영화의 원어(title 및 언어 코드) 제공
 
 ## 📁 폴더 구조
-movieSearchApp/
+`movieSearchApp/
 ├── index.html # 메인 페이지 (검색 화면)
 ├── detail.html # 영화 상세 페이지
 ├── about.html # 개발자 소개 페이지
@@ -31,7 +31,7 @@ movieSearchApp/
 │ ├── main.js # 메인 로직
 │ ├── detail.js # 상세 페이지 로직
 │ └── movieList.js # 정적 영화 데이터
-└── README.md # 프로젝트 설명 파일
+└── README.md # 프로젝트 설명 파일`
 
 ## 🛠️ 사용 기술
 
