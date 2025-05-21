@@ -23,7 +23,8 @@
 - 💬 **원어 표기 지원**: 영화의 원어(title 및 언어 코드) 제공
 
 ## 📁 폴더 구조
-```movieSearchApp/
+```
+movieSearchApp/
 ├── index.html # 메인 페이지 (검색 화면)
 ├── detail.html # 영화 상세 페이지
 ├── about.html # 개발자 소개 페이지
@@ -31,7 +32,8 @@
 │ ├── main.js # 메인 로직
 │ ├── detail.js # 상세 페이지 로직
 │ └── movieList.js # 정적 영화 데이터
-└── README.md # 프로젝트 설명 파일```
+└── README.md # 프로젝트 설명 파일
+```
 
 ## 🛠️ 사용 기술
 
@@ -47,10 +49,10 @@
 
 1. 이 저장소를 클론하세요:
   ` ```bash
-     git clone https://github.com/d0ikim/movieSearchApp.git`
+     git clone https://github.com/d0ikim/movieSearchApp.git```
 2. 폴더로 이동:
-   `cd movieSearchApp`
-3. `index.html` 파일을 브라우저로 열면 바로 실행됩니다. 서버 없이 로컬에서 실행되는 정적 웹 페이지입니다.
+   ```cd movieSearchApp```
+3. ```index.html``` 파일을 브라우저로 열면 바로 실행됩니다. 서버 없이 로컬에서 실행되는 정적 웹 페이지입니다.
 
 ## ℹ️ 참고사항
 현재는 movieList.js 파일에 포함된 샘플 영화 데이터를 사용합니다.
