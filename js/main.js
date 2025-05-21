@@ -7,9 +7,6 @@ const searchInput = document.querySelector('#searchInput');
 const pagination = document.querySelector('#pagination');       // 페이지 버튼 영역
 
 const ITEMSPERPAGE = 15;                                        // 한 페이지 당 보여줄 영화 개수
-const TOTALMOVIES = movieList.results.length;                   // 총 영화 개수
-const TOTALPAGES = Math.ceil(TOTALMOVIES/ITEMSPERPAGE);         // 총 페이지 수
-
 let currentPage = 1;                                            // 현재 페이지
 let filteredMovies = movieList.results;                         // 현재 필터링된 영화 목록 (처음엔 전체 영화) -> 얘를 매개변수로 함수에 계속 왔다갔다 보내고 받고 쓰지 않고 전역변수로 계속 상태 업데이트하면서 씀
 

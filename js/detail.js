@@ -40,7 +40,7 @@ if (movie) {  // 영화 정보 찾으면,
     <div class="card mx-auto" style-"max-width:900px;">
       <div class="row g-0">
         <div class="col-md-4">
-          <img src="https://image.tmdb.org/t/p/w440_and_h660_face${movie.backdrop_path}" class="img-fluid rounded-start" alt="${movie.original_title}">
+          <img src="https://image.tmdb.org/t/p/w440_and_h660_face${movie.poster_path}" class="img-fluid rounded-start" alt="${movie.original_title}">
         </div>
 
         <div class="col-md-8">
